@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hasan Abid</h1>
 <h3 align="center">Dedicated to mastering the art of problem-solving, a passionate competitive programmer and Flutter developer aims to craft innovative solutions that push boundaries and redefine possibilities. With a foundation in computer science engineering, they strive to blend creativity and technical prowess, creating seamless experiences that enrich the digital world.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahbub-hasan-abid&label=Profile%20views&color=0e75b6&style=flat" alt="mahbub-hasan-abid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahbub-hasan-abid" alt="mahbub-hasan-abid" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mahbubhasanabid" target="blank"><img src="https://img.shields.io/twitter/follow/mahbubhasanabid?logo=twitter&style=for-the-badge" alt="mahbubhasanabid" /></a> </p>
 
