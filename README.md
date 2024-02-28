@@ -33,7 +33,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahbub-hasan-abid&show_icons=true&locale=en" alt="mahbub-hasan-abid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub-hasan-abid&" alt="mahbub-hasan-abid" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub-hasan-abid&" alt="mahbub-hasan-abid" /></p\
+<hr>
+![](https://raw.githubusercontent.com/mahbub-hasan-abid/cf-status/main/output/max_rating.svg)
 ![](https://raw.githubusercontent.com/mahbub-hasan-abid/cf-status/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/mahbub-hasan-abid/cf-status/main/output/light_card.svg)
+
