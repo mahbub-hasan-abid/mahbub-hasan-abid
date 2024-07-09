@@ -11,7 +11,15 @@
 
 - 💬 Ask me about **Coding challenges, Algorithmic challenges, data structures, and problem-solving strategies, Flutter development intricacies, Building beautiful and functional mobile and web applications. or delve into the fascinating world of computer science. Let's embark on a journey of curiosity, innovation, and endless learning together.**
 
-- 📫 How to reach me **mahbubhasanabid00@gmail.com**
+- 📫 How to reach me
+
+I am happy to address any questions or provide further assistance that you may require. If you need any information or have any queries, feel free to contact me. I will be glad to be in touch with you.
+
+- **Email**: [mahbubhasanabid00@gmail.com](mailto:mahbubhasanabid00@gmail.com)
+- **Telegram**: [@mhabid00](https://t.me/mhabid00)
+- **WhatsApp**: [01736299581](https://wa.me/8801736299581)
+- **LinkedIn**: [Mahbub Hasan Abid](https://www.linkedin.com/in/mahbub-hasan-abid/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
