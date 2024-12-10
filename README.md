@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahbub Hasan Abid</h1>
-<h3 align="center"Focused on solving challenging problems, I am a passionate competitive programmer and Flutter developer dedicated to building creative and practical solutions. With a background in computer science engineering, I combine technical expertise with innovative thinking to deliver seamless and impactful digital experiences.</h3>
+<h3 align="center">Focused on solving challenging problems, I am a passionate competitive programmer and Flutter developer dedicated to building creative and practical solutions. With a background in computer science engineering, I combine technical expertise with innovative thinking to deliver seamless and impactful digital experiences.</h3>
 
 
 
